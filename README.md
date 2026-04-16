@@ -34,36 +34,12 @@ Na pasta `dados/`, voce encontra **5 arquivos CSV**:
 
 ## Desafio
 
-### Parte 1: Cruzamento e Tratamento de Dados
+O cliente quer respostas para duas perguntas:
 
-A planilha do banner (`planilha_banner_cliente.csv`) nao tem o campo `item_id`, que e necessario para cruzar com os dados de venda do GA4.
+1. **"O investimento no banner da home esta valendo a pena?"**
+2. **"O que esta acontecendo com as nossas vendas por categoria e o que podemos fazer para melhorar?"**
 
-O cliente enviou o catalogo completo (`base_produtos.csv`) para voce identificar os IDs dos produtos divulgados.
-
-**Perguntas:**
-- Como voce faria o cruzamento entre a planilha do banner e o catalogo?
-- Quais problemas voce encontrou nos dados? Como tratou?
-- Algum produto do banner nao foi encontrado no catalogo? O que isso pode significar?
-
-### Parte 2: Analise de Performance
-
-Com os dados cruzados, analise a performance dos produtos do banner e das categorias do marketplace.
-
-**Pontos para explorar (nao limitado a estes):**
-- Quais categorias tem maior representacao de venda? E melhor taxa de conversao?
-- Existe algum padrao temporal nas compras? (dia do mes, dia da semana)
-- Como as marcas performam dentro de cada categoria?
-- Os produtos divulgados no banner tiveram performance superior aos demais?
-- O CRM esta contribuindo para as vendas? Existe potencial inexplorado?
-
-### Parte 3: Reconciliacao de Dados
-
-Os dados do GA4 e da VTEX cobrem o mesmo periodo, mas vem de fontes diferentes.
-
-**Perguntas:**
-- Os numeros batem entre GA4 e VTEX? Se nao, quais as possiveis causas?
-- Que impacto essas divergencias tem na confiabilidade da analise?
-- Como voce recomendaria tratar essas discrepancias no dia a dia?
+Voce tem 5 CSVs de fontes diferentes. Analise.
 
 ---
 
@@ -90,18 +66,6 @@ Os dados do GA4 e da VTEX cobrem o mesmo periodo, mas vem de fontes diferentes.
 - **Nao existe resposta unica certa**: estamos avaliando o processo, o raciocinio e a capacidade de gerar insight acionavel.
 - **Qualidade > Quantidade**: prefira 3 insights profundos a 10 superficiais.
 - **Priorize**: se o cliente so pudesse implementar 2 recomendacoes, quais seriam e por que?
-
----
-
-## Criterios de Avaliacao
-
-| Criterio | Peso |
-|----------|------|
-| Tratamento e qualidade dos dados | 25% |
-| Profundidade da analise | 25% |
-| Insights acionaveis e priorizados | 25% |
-| Clareza na comunicacao dos resultados | 15% |
-| Processo e documentacao | 10% |
 
 ---
 
