@@ -1,0 +1,147 @@
+﻿data_envio,dia_semana,nome_campanha,tipo_campanha,categoria_foco,total_envios,total_aberturas,total_cliques,total_conversoes,receita_atribuida,taxa_abertura,taxa_clique,taxa_conversao
+2025-01-01,Quarta,Carrinho Abandonado - Climatização - 01/01,Carrinho Abandonado,Climatização,4044,767,55,1,836.7,0.1897,0.0717,0.0182
+2025-01-01,Quarta,Carrinho Abandonado - Eletrodomésticos - 01/01,Carrinho Abandonado,Eletrodomésticos,5622,737,29,0,0.0,0.1311,0.0393,0.0
+2025-01-01,Quarta,Promoção Semanal - Esporte e Lazer - 01/01,Promoção Semanal,Esporte e Lazer,13625,1643,118,1,145.55,0.1206,0.0718,0.0085
+2025-01-01,Quarta,Carrinho Abandonado - Utilidades Domésticas - 01/01,Carrinho Abandonado,Utilidades Domésticas,3129,587,44,0,0.0,0.1876,0.075,0.0
+2025-01-02,Quinta,"Lançamento - TV, Áudio e Vídeo - 02/01",Lançamento,"TV, Áudio e Vídeo",14892,4441,320,1,285.88,0.2982,0.0721,0.0031
+2025-01-02,Quinta,Carrinho Abandonado - Utilidades Domésticas - 02/01,Carrinho Abandonado,Utilidades Domésticas,3264,675,23,0,0.0,0.2068,0.0341,0.0
+2025-01-03,Sexta,Remarketing - Climatização - 03/01,Remarketing,Climatização,6488,2110,127,0,0.0,0.3252,0.0602,0.0
+2025-01-03,Sexta,"Carrinho Abandonado - TV, Áudio e Vídeo - 03/01",Carrinho Abandonado,"TV, Áudio e Vídeo",3060,691,51,0,0.0,0.2258,0.0738,0.0
+2025-01-03,Sexta,Remarketing - Esporte e Lazer - 03/01,Remarketing,Esporte e Lazer,15482,2419,121,1,458.16,0.1562,0.05,0.0083
+2025-01-03,Sexta,Pós-compra - Utilidades Domésticas - 03/01,Pós-compra,Utilidades Domésticas,16994,3911,288,2,471.9,0.2301,0.0736,0.0069
+2025-01-06,Segunda,Promoção Semanal - Climatização - 06/01,Promoção Semanal,Climatização,22497,7563,299,3,2683.79,0.3362,0.0395,0.01
+2025-01-06,Segunda,"Pós-compra - TV, Áudio e Vídeo - 06/01",Pós-compra,"TV, Áudio e Vídeo",9439,3178,158,0,0.0,0.3367,0.0497,0.0
+2025-01-06,Segunda,Lançamento - Esporte e Lazer - 06/01,Lançamento,Esporte e Lazer,16788,2667,79,1,310.7,0.1589,0.0296,0.0127
+2025-01-07,Terça,Promoção Semanal - Eletrodomésticos - 07/01,Promoção Semanal,Eletrodomésticos,6050,1641,49,0,0.0,0.2712,0.0299,0.0
+2025-01-07,Terça,"Promoção Semanal - TV, Áudio e Vídeo - 07/01",Promoção Semanal,"TV, Áudio e Vídeo",11126,3524,271,3,1298.82,0.3167,0.0769,0.0111
+2025-01-07,Terça,Lançamento - Utilidades Domésticas - 07/01,Lançamento,Utilidades Domésticas,13571,2196,160,2,914.49,0.1618,0.0729,0.0125
+2025-01-08,Quarta,Carrinho Abandonado - Climatização - 08/01,Carrinho Abandonado,Climatização,6873,1731,53,0,0.0,0.2519,0.0306,0.0
+2025-01-08,Quarta,Remarketing - Eletrodomésticos - 08/01,Remarketing,Eletrodomésticos,9498,2069,104,1,984.45,0.2178,0.0503,0.0096
+2025-01-08,Quarta,"Pós-compra - TV, Áudio e Vídeo - 08/01",Pós-compra,"TV, Áudio e Vídeo",20134,4275,289,0,0.0,0.2123,0.0676,0.0
+2025-01-08,Quarta,Lançamento - Esporte e Lazer - 08/01,Lançamento,Esporte e Lazer,24590,8438,669,8,3779.71,0.3431,0.0793,0.012
+2025-01-08,Quarta,Promoção Semanal - Utilidades Domésticas - 08/01,Promoção Semanal,Utilidades Domésticas,8593,2389,134,1,255.44,0.278,0.0561,0.0075
+2025-01-09,Quinta,Pós-compra - Eletrodomésticos - 09/01,Pós-compra,Eletrodomésticos,5466,887,89,0,0.0,0.1623,0.1003,0.0
+2025-01-09,Quinta,"Lançamento - TV, Áudio e Vídeo - 09/01",Lançamento,"TV, Áudio e Vídeo",9544,3173,135,0,0.0,0.3325,0.0425,0.0
+2025-01-09,Quinta,Promoção Semanal - Esporte e Lazer - 09/01,Promoção Semanal,Esporte e Lazer,20790,3815,138,1,339.07,0.1835,0.0362,0.0072
+2025-01-10,Sexta,"Pós-compra - TV, Áudio e Vídeo - 10/01",Pós-compra,"TV, Áudio e Vídeo",6958,1577,43,0,0.0,0.2266,0.0273,0.0
+2025-01-10,Sexta,Carrinho Abandonado - Utilidades Domésticas - 10/01,Carrinho Abandonado,Utilidades Domésticas,2825,872,25,0,0.0,0.3087,0.0287,0.0
+2025-01-13,Segunda,"Carrinho Abandonado - TV, Áudio e Vídeo - 13/01",Carrinho Abandonado,"TV, Áudio e Vídeo",5078,1428,108,1,396.46,0.2812,0.0756,0.0093
+2025-01-13,Segunda,Pós-compra - Utilidades Domésticas - 13/01,Pós-compra,Utilidades Domésticas,22865,4146,316,0,0.0,0.1813,0.0762,0.0
+2025-01-14,Terça,Pós-compra - Climatização - 14/01,Pós-compra,Climatização,17447,3108,247,0,0.0,0.1781,0.0795,0.0
+2025-01-14,Terça,"Pós-compra - TV, Áudio e Vídeo - 14/01",Pós-compra,"TV, Áudio e Vídeo",23368,6563,427,3,396.77,0.2809,0.0651,0.007
+2025-01-14,Terça,Remarketing - Utilidades Domésticas - 14/01,Remarketing,Utilidades Domésticas,24662,4949,346,2,746.56,0.2007,0.0699,0.0058
+2025-01-15,Quarta,Remarketing - Climatização - 15/01,Remarketing,Climatização,24535,5508,440,5,1538.51,0.2245,0.0799,0.0114
+2025-01-15,Quarta,"Promoção Semanal - TV, Áudio e Vídeo - 15/01",Promoção Semanal,"TV, Áudio e Vídeo",6602,2017,145,1,176.88,0.3055,0.0719,0.0069
+2025-01-15,Quarta,Lançamento - Esporte e Lazer - 15/01,Lançamento,Esporte e Lazer,19910,5054,283,1,105.12,0.2538,0.056,0.0035
+2025-01-16,Quinta,Carrinho Abandonado - Climatização - 16/01,Carrinho Abandonado,Climatização,2283,648,19,0,0.0,0.2838,0.0293,0.0
+2025-01-16,Quinta,Pós-compra - Eletrodomésticos - 16/01,Pós-compra,Eletrodomésticos,13939,3919,290,2,2831.66,0.2812,0.074,0.0069
+2025-01-16,Quinta,"Carrinho Abandonado - TV, Áudio e Vídeo - 16/01",Carrinho Abandonado,"TV, Áudio e Vídeo",7124,1019,50,2,490.18,0.143,0.0491,0.04
+2025-01-16,Quinta,Pós-compra - Esporte e Lazer - 16/01,Pós-compra,Esporte e Lazer,22988,7539,572,3,1103.44,0.328,0.0759,0.0052
+2025-01-17,Sexta,Carrinho Abandonado - Climatização - 17/01,Carrinho Abandonado,Climatização,1837,446,14,0,0.0,0.2428,0.0314,0.0
+2025-01-17,Sexta,"Carrinho Abandonado - TV, Áudio e Vídeo - 17/01",Carrinho Abandonado,"TV, Áudio e Vídeo",1774,258,17,0,0.0,0.1454,0.0659,0.0
+2025-01-17,Sexta,Lançamento - Esporte e Lazer - 17/01,Lançamento,Esporte e Lazer,5239,778,39,0,0.0,0.1485,0.0501,0.0
+2025-01-17,Sexta,Pós-compra - Utilidades Domésticas - 17/01,Pós-compra,Utilidades Domésticas,13419,3428,246,3,778.55,0.2555,0.0718,0.0122
+2025-01-20,Segunda,Lançamento - Climatização - 20/01,Lançamento,Climatização,10946,3320,201,0,0.0,0.3033,0.0605,0.0
+2025-01-20,Segunda,Promoção Semanal - Eletrodomésticos - 20/01,Promoção Semanal,Eletrodomésticos,10517,2110,56,0,0.0,0.2006,0.0265,0.0
+2025-01-20,Segunda,Lançamento - Esporte e Lazer - 20/01,Lançamento,Esporte e Lazer,11135,2486,63,0,0.0,0.2233,0.0253,0.0
+2025-01-21,Terça,Carrinho Abandonado - Climatização - 21/01,Carrinho Abandonado,Climatização,6041,1180,75,3,2727.42,0.1953,0.0636,0.04
+2025-01-21,Terça,Carrinho Abandonado - Eletrodomésticos - 21/01,Carrinho Abandonado,Eletrodomésticos,1803,587,35,1,832.55,0.3256,0.0596,0.0286
+2025-01-21,Terça,"Promoção Semanal - TV, Áudio e Vídeo - 21/01",Promoção Semanal,"TV, Áudio e Vídeo",16620,4542,214,1,446.83,0.2733,0.0471,0.0047
+2025-01-21,Terça,Pós-compra - Esporte e Lazer - 21/01,Pós-compra,Esporte e Lazer,12169,2296,47,0,0.0,0.1887,0.0205,0.0
+2025-01-21,Terça,Promoção Semanal - Utilidades Domésticas - 21/01,Promoção Semanal,Utilidades Domésticas,6048,1659,60,0,0.0,0.2743,0.0362,0.0
+2025-01-22,Quarta,Promoção Semanal - Climatização - 22/01,Promoção Semanal,Climatização,18644,5255,191,2,670.19,0.2819,0.0363,0.0105
+2025-01-22,Quarta,Promoção Semanal - Eletrodomésticos - 22/01,Promoção Semanal,Eletrodomésticos,17737,2281,103,0,0.0,0.1286,0.0452,0.0
+2025-01-23,Quinta,Pós-compra - Climatização - 23/01,Pós-compra,Climatização,16445,7525,632,1,1061.94,0.4576,0.084,0.0016
+2025-01-23,Quinta,Promoção Semanal - Esporte e Lazer - 23/01,Promoção Semanal,Esporte e Lazer,18790,4429,193,2,875.64,0.2357,0.0436,0.0104
+2025-01-24,Sexta,Carrinho Abandonado - Eletrodomésticos - 24/01,Carrinho Abandonado,Eletrodomésticos,7318,1232,77,1,827.53,0.1684,0.0625,0.013
+2025-01-24,Sexta,Pós-compra - Esporte e Lazer - 24/01,Pós-compra,Esporte e Lazer,5429,1897,137,0,0.0,0.3494,0.0722,0.0
+2025-01-24,Sexta,Pós-compra - Utilidades Domésticas - 24/01,Pós-compra,Utilidades Domésticas,21680,7425,440,5,1506.61,0.3425,0.0593,0.0114
+2025-01-27,Segunda,Remarketing - Climatização - 27/01,Remarketing,Climatização,6308,2461,157,0,0.0,0.3901,0.0638,0.0
+2025-01-27,Segunda,Promoção Semanal - Eletrodomésticos - 27/01,Promoção Semanal,Eletrodomésticos,22620,3241,114,1,401.28,0.1433,0.0352,0.0088
+2025-01-27,Segunda,"Remarketing - TV, Áudio e Vídeo - 27/01",Remarketing,"TV, Áudio e Vídeo",7001,1749,119,0,0.0,0.2498,0.068,0.0
+2025-01-27,Segunda,Remarketing - Esporte e Lazer - 27/01,Remarketing,Esporte e Lazer,21327,5048,245,3,1043.46,0.2367,0.0485,0.0122
+2025-01-27,Segunda,Lançamento - Utilidades Domésticas - 27/01,Lançamento,Utilidades Domésticas,23114,3116,217,1,148.4,0.1348,0.0696,0.0046
+2025-01-28,Terça,Remarketing - Climatização - 28/01,Remarketing,Climatização,10147,2671,79,0,0.0,0.2632,0.0296,0.0
+2025-01-28,Terça,Remarketing - Eletrodomésticos - 28/01,Remarketing,Eletrodomésticos,5141,1358,42,0,0.0,0.2642,0.0309,0.0
+2025-01-28,Terça,"Remarketing - TV, Áudio e Vídeo - 28/01",Remarketing,"TV, Áudio e Vídeo",15023,2804,119,0,0.0,0.1866,0.0424,0.0
+2025-01-28,Terça,Carrinho Abandonado - Utilidades Domésticas - 28/01,Carrinho Abandonado,Utilidades Domésticas,6716,1195,80,1,444.46,0.1779,0.0669,0.0125
+2025-01-29,Quarta,Pós-compra - Climatização - 29/01,Pós-compra,Climatização,14684,4961,180,0,0.0,0.3379,0.0363,0.0
+2025-01-29,Quarta,Carrinho Abandonado - Eletrodomésticos - 29/01,Carrinho Abandonado,Eletrodomésticos,3509,738,35,1,1562.85,0.2103,0.0474,0.0286
+2025-01-29,Quarta,"Carrinho Abandonado - TV, Áudio e Vídeo - 29/01",Carrinho Abandonado,"TV, Áudio e Vídeo",3192,847,24,0,0.0,0.2654,0.0283,0.0
+2025-01-29,Quarta,Pós-compra - Esporte e Lazer - 29/01,Pós-compra,Esporte e Lazer,22776,3945,120,1,383.87,0.1732,0.0304,0.0083
+2025-01-29,Quarta,Pós-compra - Utilidades Domésticas - 29/01,Pós-compra,Utilidades Domésticas,5335,1303,80,0,0.0,0.2442,0.0614,0.0
+2025-01-30,Quinta,Promoção Semanal - Eletrodomésticos - 30/01,Promoção Semanal,Eletrodomésticos,24300,7104,219,2,3640.89,0.2923,0.0308,0.0091
+2025-01-30,Quinta,"Pós-compra - TV, Áudio e Vídeo - 30/01",Pós-compra,"TV, Áudio e Vídeo",20777,6818,417,5,410.3,0.3282,0.0612,0.012
+2025-01-30,Quinta,Remarketing - Esporte e Lazer - 30/01,Remarketing,Esporte e Lazer,7092,1619,99,1,156.09,0.2283,0.0611,0.0101
+2025-01-30,Quinta,Pós-compra - Utilidades Domésticas - 30/01,Pós-compra,Utilidades Domésticas,7583,1674,118,1,222.12,0.2208,0.0705,0.0085
+2025-01-31,Sexta,Pós-compra - Eletrodomésticos - 31/01,Pós-compra,Eletrodomésticos,13978,2163,169,2,1329.27,0.1547,0.0781,0.0118
+2025-01-31,Sexta,Promoção Semanal - Esporte e Lazer - 31/01,Promoção Semanal,Esporte e Lazer,18027,5651,300,0,0.0,0.3135,0.0531,0.0
+2025-02-03,Segunda,Remarketing - Climatização - 03/02,Remarketing,Climatização,22693,6722,137,0,0.0,0.2962,0.0204,0.0
+2025-02-03,Segunda,"Lançamento - TV, Áudio e Vídeo - 03/02",Lançamento,"TV, Áudio e Vídeo",24901,4787,326,2,759.12,0.1922,0.0681,0.0061
+2025-02-03,Segunda,Remarketing - Esporte e Lazer - 03/02,Remarketing,Esporte e Lazer,19069,4222,104,0,0.0,0.2214,0.0246,0.0
+2025-02-03,Segunda,Lançamento - Utilidades Domésticas - 03/02,Lançamento,Utilidades Domésticas,7121,1893,64,0,0.0,0.2658,0.0338,0.0
+2025-02-04,Terça,Remarketing - Climatização - 04/02,Remarketing,Climatização,20117,2560,181,2,492.86,0.1273,0.0707,0.011
+2025-02-04,Terça,Promoção Semanal - Esporte e Lazer - 04/02,Promoção Semanal,Esporte e Lazer,21584,3190,64,0,0.0,0.1478,0.0201,0.0
+2025-02-04,Terça,Remarketing - Utilidades Domésticas - 04/02,Remarketing,Utilidades Domésticas,19838,6667,334,3,1368.5,0.3361,0.0501,0.009
+2025-02-05,Quarta,Promoção Semanal - Eletrodomésticos - 05/02,Promoção Semanal,Eletrodomésticos,23341,5686,386,4,2800.53,0.2436,0.0679,0.0104
+2025-02-05,Quarta,"Promoção Semanal - TV, Áudio e Vídeo - 05/02",Promoção Semanal,"TV, Áudio e Vídeo",9074,2459,109,0,0.0,0.271,0.0443,0.0
+2025-02-05,Quarta,Promoção Semanal - Esporte e Lazer - 05/02,Promoção Semanal,Esporte e Lazer,15125,3328,257,1,130.42,0.22,0.0772,0.0039
+2025-02-05,Quarta,Lançamento - Utilidades Domésticas - 05/02,Lançamento,Utilidades Domésticas,5822,1447,73,1,337.58,0.2485,0.0504,0.0137
+2025-02-06,Quinta,Carrinho Abandonado - Climatização - 06/02,Carrinho Abandonado,Climatização,2607,629,22,0,0.0,0.2413,0.035,0.0
+2025-02-06,Quinta,"Pós-compra - TV, Áudio e Vídeo - 06/02",Pós-compra,"TV, Áudio e Vídeo",8930,2191,44,0,0.0,0.2454,0.0201,0.0
+2025-02-06,Quinta,Lançamento - Esporte e Lazer - 06/02,Lançamento,Esporte e Lazer,22464,3724,144,0,0.0,0.1658,0.0387,0.0
+2025-02-06,Quinta,Lançamento - Utilidades Domésticas - 06/02,Lançamento,Utilidades Domésticas,21409,3469,71,0,0.0,0.162,0.0205,0.0
+2025-02-07,Sexta,Promoção Semanal - Climatização - 07/02,Promoção Semanal,Climatização,6664,2080,103,0,0.0,0.3121,0.0495,0.0
+2025-02-07,Sexta,Carrinho Abandonado - Eletrodomésticos - 07/02,Carrinho Abandonado,Eletrodomésticos,1956,605,28,0,0.0,0.3093,0.0463,0.0
+2025-02-07,Sexta,"Lançamento - TV, Áudio e Vídeo - 07/02",Lançamento,"TV, Áudio e Vídeo",15324,3333,162,1,182.72,0.2175,0.0486,0.0062
+2025-02-07,Sexta,Remarketing - Esporte e Lazer - 07/02,Remarketing,Esporte e Lazer,12349,2012,56,0,0.0,0.1629,0.0278,0.0
+2025-02-07,Sexta,Promoção Semanal - Utilidades Domésticas - 07/02,Promoção Semanal,Utilidades Domésticas,11809,2863,146,0,0.0,0.2424,0.051,0.0
+2025-02-10,Segunda,Carrinho Abandonado - Climatização - 10/02,Carrinho Abandonado,Climatização,2134,371,18,0,0.0,0.1739,0.0485,0.0
+2025-02-10,Segunda,"Pós-compra - TV, Áudio e Vídeo - 10/02",Pós-compra,"TV, Áudio e Vídeo",23094,7618,334,1,153.72,0.3299,0.0438,0.003
+2025-02-10,Segunda,Promoção Semanal - Esporte e Lazer - 10/02,Promoção Semanal,Esporte e Lazer,22000,3919,223,2,179.68,0.1781,0.0569,0.009
+2025-02-11,Terça,Promoção Semanal - Eletrodomésticos - 11/02,Promoção Semanal,Eletrodomésticos,14034,3570,279,1,1388.5,0.2544,0.0782,0.0036
+2025-02-11,Terça,"Carrinho Abandonado - TV, Áudio e Vídeo - 11/02",Carrinho Abandonado,"TV, Áudio e Vídeo",1984,607,41,0,0.0,0.3059,0.0675,0.0
+2025-02-11,Terça,Carrinho Abandonado - Esporte e Lazer - 11/02,Carrinho Abandonado,Esporte e Lazer,2121,502,19,0,0.0,0.2367,0.0378,0.0
+2025-02-11,Terça,Carrinho Abandonado - Utilidades Domésticas - 11/02,Carrinho Abandonado,Utilidades Domésticas,2212,305,6,0,0.0,0.1379,0.0197,0.0
+2025-02-12,Quarta,Promoção Semanal - Climatização - 12/02,Promoção Semanal,Climatização,7273,1189,35,0,0.0,0.1635,0.0294,0.0
+2025-02-12,Quarta,Carrinho Abandonado - Eletrodomésticos - 12/02,Carrinho Abandonado,Eletrodomésticos,7438,1199,62,1,1110.18,0.1612,0.0517,0.0161
+2025-02-12,Quarta,"Remarketing - TV, Áudio e Vídeo - 12/02",Remarketing,"TV, Áudio e Vídeo",20752,5455,314,0,0.0,0.2629,0.0576,0.0
+2025-02-12,Quarta,Pós-compra - Esporte e Lazer - 12/02,Pós-compra,Esporte e Lazer,10698,2169,65,0,0.0,0.2027,0.03,0.0
+2025-02-12,Quarta,Lançamento - Utilidades Domésticas - 12/02,Lançamento,Utilidades Domésticas,10680,3293,196,2,996.26,0.3083,0.0595,0.0102
+2025-02-13,Quinta,Pós-compra - Eletrodomésticos - 13/02,Pós-compra,Eletrodomésticos,21303,5374,123,0,0.0,0.2523,0.0229,0.0
+2025-02-13,Quinta,Remarketing - Esporte e Lazer - 13/02,Remarketing,Esporte e Lazer,10601,1828,88,0,0.0,0.1724,0.0481,0.0
+2025-02-13,Quinta,Pós-compra - Utilidades Domésticas - 13/02,Pós-compra,Utilidades Domésticas,13699,3160,89,0,0.0,0.2307,0.0282,0.0
+2025-02-14,Sexta,Lançamento - Climatização - 14/02,Lançamento,Climatização,23090,7136,480,2,2253.33,0.3091,0.0673,0.0042
+2025-02-14,Sexta,"Promoção Semanal - TV, Áudio e Vídeo - 14/02",Promoção Semanal,"TV, Áudio e Vídeo",22915,6033,468,3,1438.81,0.2633,0.0776,0.0064
+2025-02-17,Segunda,Lançamento - Climatização - 17/02,Lançamento,Climatização,12911,3270,238,2,1761.23,0.2533,0.0728,0.0084
+2025-02-17,Segunda,"Remarketing - TV, Áudio e Vídeo - 17/02",Remarketing,"TV, Áudio e Vídeo",12982,2359,138,0,0.0,0.1817,0.0585,0.0
+2025-02-17,Segunda,Lançamento - Esporte e Lazer - 17/02,Lançamento,Esporte e Lazer,20620,4093,204,1,462.26,0.1985,0.0498,0.0049
+2025-02-17,Segunda,Pós-compra - Utilidades Domésticas - 17/02,Pós-compra,Utilidades Domésticas,5247,977,45,0,0.0,0.1862,0.0461,0.0
+2025-02-18,Terça,Pós-compra - Climatização - 18/02,Pós-compra,Climatização,19307,3055,227,2,2160.89,0.1582,0.0743,0.0088
+2025-02-18,Terça,"Promoção Semanal - TV, Áudio e Vídeo - 18/02",Promoção Semanal,"TV, Áudio e Vídeo",8236,2552,94,0,0.0,0.3099,0.0368,0.0
+2025-02-18,Terça,Carrinho Abandonado - Esporte e Lazer - 18/02,Carrinho Abandonado,Esporte e Lazer,7294,2117,139,1,235.74,0.2902,0.0657,0.0072
+2025-02-18,Terça,Promoção Semanal - Utilidades Domésticas - 18/02,Promoção Semanal,Utilidades Domésticas,10628,2355,70,0,0.0,0.2216,0.0297,0.0
+2025-02-19,Quarta,Remarketing - Climatização - 19/02,Remarketing,Climatização,17369,4877,335,4,7712.68,0.2808,0.0687,0.0119
+2025-02-19,Quarta,"Promoção Semanal - TV, Áudio e Vídeo - 19/02",Promoção Semanal,"TV, Áudio e Vídeo",20220,4450,313,0,0.0,0.2201,0.0703,0.0
+2025-02-20,Quinta,Promoção Semanal - Climatização - 20/02,Promoção Semanal,Climatização,11421,3421,100,1,791.06,0.2995,0.0292,0.01
+2025-02-20,Quinta,Pós-compra - Eletrodomésticos - 20/02,Pós-compra,Eletrodomésticos,13066,1990,108,1,1990.61,0.1523,0.0543,0.0093
+2025-02-20,Quinta,"Carrinho Abandonado - TV, Áudio e Vídeo - 20/02",Carrinho Abandonado,"TV, Áudio e Vídeo",1768,354,13,0,0.0,0.2002,0.0367,0.0
+2025-02-20,Quinta,Promoção Semanal - Esporte e Lazer - 20/02,Promoção Semanal,Esporte e Lazer,5548,669,33,0,0.0,0.1206,0.0493,0.0
+2025-02-21,Sexta,Promoção Semanal - Eletrodomésticos - 21/02,Promoção Semanal,Eletrodomésticos,15504,1870,119,0,0.0,0.1206,0.0636,0.0
+2025-02-21,Sexta,Promoção Semanal - Utilidades Domésticas - 21/02,Promoção Semanal,Utilidades Domésticas,6100,1599,115,0,0.0,0.2621,0.0719,0.0
+2025-02-24,Segunda,Pós-compra - Climatização - 24/02,Pós-compra,Climatização,11009,4064,368,3,5357.08,0.3692,0.0906,0.0082
+2025-02-24,Segunda,Pós-compra - Eletrodomésticos - 24/02,Pós-compra,Eletrodomésticos,8557,2038,155,1,399.04,0.2382,0.0761,0.0065
+2025-02-24,Segunda,"Lançamento - TV, Áudio e Vídeo - 24/02",Lançamento,"TV, Áudio e Vídeo",23700,3199,145,0,0.0,0.135,0.0453,0.0
+2025-02-24,Segunda,Promoção Semanal - Utilidades Domésticas - 24/02,Promoção Semanal,Utilidades Domésticas,20675,3812,184,1,323.38,0.1844,0.0483,0.0054
+2025-02-25,Terça,"Pós-compra - TV, Áudio e Vídeo - 25/02",Pós-compra,"TV, Áudio e Vídeo",17040,2342,171,1,82.04,0.1374,0.073,0.0058
+2025-02-25,Terça,Carrinho Abandonado - Esporte e Lazer - 25/02,Carrinho Abandonado,Esporte e Lazer,4042,1071,55,2,808.58,0.265,0.0514,0.0364
+2025-02-25,Terça,Remarketing - Utilidades Domésticas - 25/02,Remarketing,Utilidades Domésticas,16704,5842,432,5,1067.07,0.3497,0.0739,0.0116
+2025-02-26,Quarta,Remarketing - Climatização - 26/02,Remarketing,Climatização,7743,3267,315,3,1818.14,0.4219,0.0964,0.0095
+2025-02-26,Quarta,Remarketing - Eletrodomésticos - 26/02,Remarketing,Eletrodomésticos,9717,1656,103,1,862.56,0.1704,0.0622,0.0097
+2025-02-27,Quinta,Remarketing - Eletrodomésticos - 27/02,Remarketing,Eletrodomésticos,22049,4527,147,1,471.41,0.2053,0.0325,0.0068
+2025-02-27,Quinta,"Promoção Semanal - TV, Áudio e Vídeo - 27/02",Promoção Semanal,"TV, Áudio e Vídeo",9061,2662,95,0,0.0,0.2938,0.0357,0.0
+2025-02-27,Quinta,Remarketing - Esporte e Lazer - 27/02,Remarketing,Esporte e Lazer,23470,4388,203,0,0.0,0.187,0.0463,0.0
+2025-02-27,Quinta,Promoção Semanal - Utilidades Domésticas - 27/02,Promoção Semanal,Utilidades Domésticas,14533,3148,114,1,329.98,0.2166,0.0362,0.0088
+2025-02-28,Sexta,Remarketing - Climatização - 28/02,Remarketing,Climatização,15537,4103,265,1,1434.76,0.2641,0.0646,0.0038
+2025-02-28,Sexta,"Promoção Semanal - TV, Áudio e Vídeo - 28/02",Promoção Semanal,"TV, Áudio e Vídeo",15904,2329,94,1,193.0,0.1464,0.0404,0.0106
+2025-02-28,Sexta,Promoção Semanal - Utilidades Domésticas - 28/02,Promoção Semanal,Utilidades Domésticas,6776,1067,25,0,0.0,0.1575,0.0234,0.0
