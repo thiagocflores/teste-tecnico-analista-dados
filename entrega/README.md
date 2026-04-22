@@ -1,6 +1,6 @@
 # Entrega do teste técnico
 
-# Uso de IA no processo
+## Uso de IA no processo
 
 Foi utilizado apoio de IA generativa ao longo da elaboração desta entrega, principalmente para:
 
