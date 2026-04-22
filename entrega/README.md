@@ -2,7 +2,7 @@
 
 ## Uso de IA no processo
 
-Foi utilizado apoio de IA generativa ao longo da elaboração desta entrega, principalmente para:
+Foi utilizado apoio de IA generativa ao longo da elaboração desta entrega (ChatGPT), principalmente para:
 
 - estruturar o raciocínio do notebook;
 - revisar a redação de trechos explicativos;
